@@ -1,1 +1,1 @@
-# mp2-lab13-plex
+[![Build Status](https://travis-ci.com/AmelieMedved/mp2-lab13-plex.svg?branch=mp2-lab13-plex)](https://travis-ci.com/AmelieMedved/mp2-lab13-plex)
